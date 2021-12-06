@@ -25,7 +25,7 @@ sol=np.linalg.solve(A,B)
 print(sol)
 ~~~
 ## Output:
-![output](line.img.jpg)
+![output](img.jpg)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
